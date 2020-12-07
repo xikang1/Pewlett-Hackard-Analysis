@@ -5,7 +5,10 @@ By using SQL data base related knowledge, we have filtered out the tables for de
 
 ## Analysis based on two tables
 
-
+|Retiring Employees number per department          |Eligible Employees for Mentorship Program                |
+|:----------:                                      |                                :-----------------------:|
+|![](Resources/1.PNG)                              |![](Resources/2.PNG)                                     |
+* All the factors decreased a little bit except the average reading score.
 
 Summary:
 
